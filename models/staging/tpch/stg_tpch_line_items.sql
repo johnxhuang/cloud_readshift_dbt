@@ -25,7 +25,7 @@ select
     l_returnflag as return_flag,
     l_linestatus as status_code,
     l_shipdate as ship_date,
-    l_shipmode as ship_mode, 
+    l_shipmode as ship_method, 
     l_commitdate as commit_date,
     l_receiptdate as receipt_date
 

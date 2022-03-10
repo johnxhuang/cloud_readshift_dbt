@@ -27,7 +27,7 @@ line_item.status_code as order_item_status_code,
 line_item.ship_date,
 line_item.commit_date,
 line_item.receipt_date,
-line_item.ship_mode,
+line_item.ship_method,
 line_item.extended_price,
 line_item.quantity
 
